@@ -1,2 +1,2 @@
-# node.js-exercise
+# node.js-exercise (javascript)
 exercise
